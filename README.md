@@ -8,6 +8,7 @@ You must manage money, traffic, and your city's health while taking preventive m
 How to play: press A then type the number of the action you want to take. If your health goes below 0 you lose. Reach 600 on the timer to win!
 
 Update Log:
+
 0.2.1 
 - Made Hard Mode work
 - improved code
