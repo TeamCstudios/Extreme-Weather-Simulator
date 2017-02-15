@@ -1,13 +1,19 @@
 # Extreme-Weather-Simulator
 A game where you help cities survive extreme weather.
 
-Story:
+# Story:
 Scientists are developing a device that can completely control weather. The side effect of the creation of this device, however, is that the area will experience extreme weather until the device is completed. It is your job to help these cities to survive extreme weather, from a light snow to the terrifying Thunder Mud Sludge!
 You must manage money, traffic, and your city's health while taking preventive measures to avoid catastrophes!
 
-How to play: press A then type the number of the action you want to take. If your health goes below 0 you lose. Reach 600 on the timer to win!
+# How to play: 
+press A then type the number of the action you want to take. If your health goes below 0 you lose. Reach 600 on the timer to win!
 
-Update Log:
+# Update Log:
+
+0.2.3
+- Remade thunder mud sludge
+- added extra code to refine the level system
+- changed level placement
 
 0.2.2
 - Music partially added
