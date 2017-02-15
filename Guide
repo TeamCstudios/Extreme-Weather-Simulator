@@ -1,0 +1,30 @@
+# Guide
+
+Actions:
+
+- Basic Repair
+Cost: 100 
+Effect: Restore your cities' health by 100
+Use: This action should make up most of your game plan. It is easy to use and cheap.
+
+- Lightning Rod
+Cost: 150
+Effect: Lower the AEL, therefore delaying a lightning strike
+Use: This action is good for preventing lightning, which can be devastating.
+
+- Water Bottle Frenzy
+Cost: 100
+Condition: Extreme Heat
+Effect: Restore cities' health by 150-200
+Use: This is a very conditional thing.
+
+- Pre-Treat Roads
+Cost: 200
+Condition: Snow
+Effect: Increase traffic, however it freezes your ability to use actions.
+Use: Use as soon as it starts snowing
+
+- Declare State of Emergency
+Cost: 400
+Effect: Restore health by 400, reduce traffic
+Use: last resort
