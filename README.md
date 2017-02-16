@@ -10,6 +10,9 @@ press A then type the number of the action you want to take. If your health goes
 
 # Update Log:
 
+0.3.1
+ - Added Tornadoes
+ 
 0.3.0
  - Added Level 3
 
