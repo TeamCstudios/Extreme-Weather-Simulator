@@ -10,6 +10,9 @@ press A then type the number of the action you want to take. If your health goes
 
 # Update Log:
 
+0.3.0
+ - Added Level 3
+
 0.2.3
 - Remade thunder mud sludge
 - added extra code to refine the level system
