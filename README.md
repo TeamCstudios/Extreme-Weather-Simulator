@@ -6,9 +6,15 @@ Scientists are developing a device that can completely control weather. The side
 You must manage money, traffic, and your city's health while taking preventive measures to avoid catastrophes!
 
 # How to play: 
-press A then type the number of the action you want to take. If your health goes below 0 you lose. Reach 600 on the timer to win!
+Press A then type the number of the action you want to take. If your health goes below 0 you lose. Reach 600 on the timer to win! Your money is what allows your to take actions. The higher your traffic is, the more money you earn. Howeer, during snow, your traffic is lowered, so use Pre Treat Roads when this occurs, but it does stop you from taking action for a while so beware. The AEL is how much electricity is in the air. The higher it is, the more likely lightning will strike. Use Lightning Rod to lower AEL. Basic Repair, Water Bottle Frenzy and Declare State of emergency have the same function (restoring your health,) but WBF can only be performed in extreme heat, and DSoE lowers your traffic.
 
 # Update Log:
+
+0.3.3
+ - Added achievements (10 so far)
+ 
+0.3.2
+ - Added music to level 3, made the control sprite smaller.
 
 0.3.1
  - Added Tornadoes
