@@ -10,6 +10,12 @@ Press A then type the number of the action you want to take. If your health goes
 
 # Update Log:
 
+0.4.1
+ - Password system under maintenence
+ 
+0.4.0
+ - Added primitive password system
+
 0.3.3
  - Added achievements (10 so far)
  
