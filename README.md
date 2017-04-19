@@ -10,6 +10,9 @@ Press A then type the number of the action you want to take. If your health goes
 
 # Update Log:
 
+0.5.0
+ - Added Level 4
+
 0.4.1
  - Password system under maintenence
  
